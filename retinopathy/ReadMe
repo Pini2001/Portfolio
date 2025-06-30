@@ -1,0 +1,8 @@
+The purpose of this study is to develop a machine learning model that, from color fundus images, can determine if the patient has diabetic retinopathy (DR).
+
+This model can become a valuable tool for hospitals or ophthalmology clinics that do not have the necessary resources for diagnosis, as well as for people with DR who do not have the financial means to undergo these diagnostic tests.
+The application of this model can help prevent the spread of DR by reducing the number of complications or barriers that favor its dissemination.
+In addition, the increasing incidence of DR means that it is projected to be one of the main causes of visual impairment or blindness in the future.
+In this context, the implementation of machine learning models will not only help alleviate the workload of ophthalmologists, but will also reduce the time and costs of detecting and treating the disease.
+
+It will also improve the accuracy of the diagnosis, as it will allow the specialist to contrast his own diagnosis with the result obtained by the tool, significantly reducing the margin of error. In this context, both traditional ML techniques and innovative Deep Learning (DL) techniques for medical image processing can be applied to the construction of diagnostic prediction models. In particular, the convolutional neural networks
