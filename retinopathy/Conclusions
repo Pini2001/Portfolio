@@ -1,0 +1,8 @@
+
+VGG 19 model obtained the best performance with an accuracy of 0.96, outperforming the traditional models. 
+KNN obtained a performance of 0.82, the linear SVM of 0.84, and the SVM with RBF kernel achieved an accuracy of 0.79.
+Both approaches demonstrated very good results, highlighting the efficiency in the detection and diagnosis of diseases through medical images.
+
+In summary, our model based on the Vgg19 transfer architecture demonstrated superior performance in detecting diabetic retinopathy.
+Its high scores in accuracy, sensitivity, specificity, and precision position it as one of the most effective models compared to previous studies and traditional approaches.
+We observed that both traditional and innovative models achieve very good results, however, in choosing the best model, we leaned toward an innovative one because of its ability to accurately identify both cases of patients with diabetic retinopathy and those without the disease, which is crucial for accurate diagnosis.
